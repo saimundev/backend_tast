@@ -4,4 +4,4 @@ Base_url --> https://backend-task-jt5l.onrender.com
 
 Admin login --> https://backend-task-jt5l.onrender.com/api/auth/sign-in
 
-course --> https://backend-task-jt5l.onrender.com/api/course   (and use route name)
+course --> https://backend-task-jt5l.onrender.com/api/course/   (and use route name like [getAll-course] or [getCourse-byId/:courseId] or [update-course/:courseId] or [delete-course/:courseId] or [create-course])
